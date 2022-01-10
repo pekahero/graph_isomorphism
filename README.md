@@ -9,12 +9,12 @@ Output for example graphs:
 
 BLISS:
 Graphs are isomorphic.
-Time is 0.001001119613647461
+Time is 0.0009996891021728516
 
 VF2:
 Graphs are isomorphic.
-Time is 0.0009982585906982422
+Time is 0.0009987354278564453
 
 LAD:
 Graphs are isomorphic.
-Time is 0.0009989738464355469
+Time is 0.00099945068359375
